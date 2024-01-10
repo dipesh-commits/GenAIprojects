@@ -1,0 +1,6 @@
+"Give me the information about the mattresses available at Saatva."
+"Which sizes are available for Luxury Firm mattresses?"
+"Give me the information about the furniture options available at Saatva."
+"Can you tell me more about the king sized mattresses?"
+"Give me some description about Saatva Latex Hybrid Mattress."
+"Give me more description about Queen size mattresses."

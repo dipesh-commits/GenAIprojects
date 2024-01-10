@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Saatva Conversation AI",
+  "version": "1.0",
+  "description": "SaatvaAI, an AI powered extension to answer basic things across Saatva.com",
+  "permissions": [
+    "storage",
+    "webNavigation",
+    "webRequest",
+    "scripting",
+    "activeTab",
+    "sidePanel",
+    "tabs"
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "side_panel": {
+    "default_path": "sidePanel.html"
+  },
+  "action": {
+    "default_popup": "sidePanel.html",
+    "default_title": "Saatva Conversation AI"
+  }
+}
